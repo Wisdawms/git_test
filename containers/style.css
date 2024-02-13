@@ -1,0 +1,50 @@
+* {
+    font-family: Ovo;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: 92%;
+    margin: auto;
+    height: 100%;
+    transition: 500ms width ease;
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 576px) {
+    .container {
+        width: 540px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        width: 1140px;
+    }
+}
+
+
+
+header {
+    background-color: darkblue;
+    color: lightcoral;
+}
+
+.top-bar {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero {
+    background-color: lightgrey;
+    padding: 20px 0;
+}
+
+.hero h1 {
+    margin: 0;
+}
