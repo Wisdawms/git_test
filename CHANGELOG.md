@@ -2,4 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/Wisdawms/git_test/compare/v1.2.0...v1.2.1) (2024-03-15)
+
+
+### Bug Fixes
+
+* removed test.txt # 2024-03-15 - 6:24 PM ([84a80f6](https://github.com/Wisdawms/git_test/commit/84a80f607ddbb93fa0b8c031369e18a82888616d))
+
+## [1.2.0](https://github.com/Wisdawms/git_test/compare/v1.1.2...v1.2.0) (2024-03-15)
+
+
+### Features
+
+* added test.txt # 2024-03-15 - 6:23 PM ([00870fa](https://github.com/Wisdawms/git_test/commit/00870fa95934e9299f66e0357c6eb33b553d7e20))
+
+### [1.1.2](https://github.com/Wisdawms/git_test/compare/v1.1.1...v1.1.2) (2024-03-15)
+
+### [1.1.1](https://github.com/Wisdawms/git_test/compare/v1.1.0...v1.1.1) (2024-03-15)
+
+## [1.1.0](https://github.com/Wisdawms/git_test/compare/v1.0.1...v1.1.0) (2024-03-15)
+
+
+### Features
+
+* add standard release support! # 2024-03-15 - 5:02 PM ([cfc9ce3](https://github.com/Wisdawms/git_test/commit/cfc9ce34190c2ff57ff6db0684ad2e853917515c))
+
 ### 1.0.1 (2024-03-15)

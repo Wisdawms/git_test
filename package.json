@@ -2,11 +2,11 @@
   "name": "git_test",
   "packageManager": "yarn@4.1.1",
   "description": "<h2>git test for the odin project</h2> Hello Odin!",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "release": "standard-version"
+    "release": "standard-version && git push --follow-tags origin main && npm publish"
   },
   "keywords": [],
   "author": "",
