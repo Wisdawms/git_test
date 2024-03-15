@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/Wisdawms/git_test/compare/v1.2.0...v1.2.1) (2024-03-15)
+
+
+### Bug Fixes
+
+* removed test.txt # 2024-03-15 - 6:24 PM ([84a80f6](https://github.com/Wisdawms/git_test/commit/84a80f607ddbb93fa0b8c031369e18a82888616d))
+
 ## [1.2.0](https://github.com/Wisdawms/git_test/compare/v1.1.2...v1.2.0) (2024-03-15)
 
 
