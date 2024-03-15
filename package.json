@@ -1,0 +1,17 @@
+{
+  "name": "git_test",
+  "packageManager": "yarn@4.1.1",
+  "description": "<h2>git test for the odin project</h2> Hello Odin!",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
